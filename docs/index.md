@@ -2,7 +2,7 @@
 Plataforma open source para jogar RPG de mesa com os amigos.
 
 ## Funcionalidades
-- Modulo: Login Social
+- Módulo: Login Social
     - Facebook
     - Google
     - Github
@@ -10,7 +10,7 @@ Plataforma open source para jogar RPG de mesa com os amigos.
     - Discord
     - ICloud
     - Microsoft
-- Modulo: Criação do Personagem
+- Módulo: Criação do Personagem
     - Submodulo: Criação do Avatar
     - Submodulo: Character Sheet
 - Modulo: Criação de Campanhas
