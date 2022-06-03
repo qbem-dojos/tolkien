@@ -48,3 +48,4 @@ Plataforma open source para jogar RPG de mesa com os amigos.
 ## Hospedagem
     - Oracle
     - Google
+    - AWS
