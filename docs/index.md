@@ -16,9 +16,12 @@ Plataforma open source para jogar RPG de mesa com os amigos.
     - Submodulo: Criação do Avatar
     - Submodulo: Character Sheet (ficha do personagem)
 - Módulo: Criação de Campanhas
+    - Submodulo: Character Sheet- 
     - Submodulo: Criação da campanha(jogo).
     - Submodulo: Criação do Mapa (canvas).
-- Módulo: Modulo de Cooperação e Colaboração
+- Módulo: Módulo de Cooperação e Colaboração
+    - Submodulo: Criação da campanha(jogo).
+    - Submodulo: Criação do Mapa (canvas).
     - Submodulo: Chat
     - Submodulo: Rolagem de Dados
     - Submodulo: Chamada de Vídeo
