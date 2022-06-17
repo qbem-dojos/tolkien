@@ -32,9 +32,9 @@ Plataforma open source de mesa para RPG Online.
   - Microsoft
 - Módulo Acesso: Módulo responsável pelo controle de acesso dos usuários
 - Módulo Notificações: Módulo responsável por gerenciar as notificações, sendo elas por e-mail ou browser push notification
-- Módulo Criação do Personagem: Módulo responsável pela criação de personagens
-  - Submodulo Criação do Avatar.
-  - Submodulo Character Sheet (ficha do personagem)
+- Módulo Criação do Personagem: Módulo responsável pela criação de personagens 
+  - Submodulo Criação do Avatar. --@nicolifelix/@wanderms25
+  - Submodulo Character Sheet (ficha do personagem) --@nicolifelix/@wanderms25
 - Módulo Criação de Campanhas
   - Submodulo: Criação da campanha(jogo)
   - Submodulo: Criação do Mapa (canvas)
