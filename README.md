@@ -36,7 +36,7 @@ Plataforma open source de mesa para RPG Online.
   - Submodulo Criação do Avatar. --@nicolifelix/@wanderms25
   - Submodulo Character Sheet (ficha do personagem) --@nicolifelix/@wanderms25
 - Módulo Criação de Campanhas
-  - Submodulo: Criação da campanha(jogo)
+  - Submodulo: Criação da campanha(jogo) --@techmist
   - Submodulo: Criação do Mapa (canvas)
 - Módulo: Módulo de Cooperação e Colaboração
   - Submodulo: Chat
