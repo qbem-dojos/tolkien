@@ -39,7 +39,7 @@ Plataforma open source de mesa para RPG Online.
   - Submodulo: Criação da campanha(jogo) --@techmist
   - Submodulo: Criação do Mapa (canvas)
 - Módulo: Módulo de Cooperação e Colaboração
-  - Submodulo: Chat
+  - Submodulo: Chat --@brunovicenteb
 - Modulo de Jogo:
   - Submodulo: Rolagem de Dados
   - Submodulo: Chamada de Vídeo
